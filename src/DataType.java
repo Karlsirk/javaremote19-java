@@ -12,7 +12,7 @@ public class DataType {
     double doubleNumber =3.456d;
 
     //Character
-    char alpha = "F";
+    char alpha = 'F';
 
     //True/False
     boolean hadLunch = true; // had lunch?
@@ -26,5 +26,26 @@ public class DataType {
     float x; // 0.00f
     char animal; //
     boolean isClassTomorrow; // false
+
+    //Non-primitive data types
+    String word = "I'm not a developer";
+
+    Character random ='u';
+
+    Integer number =5;
+
+    Float numberSecond =2.45F;
+
+    Integer randomNumber; // null
+
+    public static void main(String[] args) {
+        int k= 0;
+        Integer y =null;
+
+        System.out.println(k);
+        System.out.println(y);
+    }
+
+
 }
 
