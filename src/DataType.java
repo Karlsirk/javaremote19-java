@@ -66,7 +66,7 @@ public class DataType {
         int c = a + b;
 
         System.out.println(CAR);
-        System.out.println(Cake);
+        System.out.println(FOOD);
     }
 
 
