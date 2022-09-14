@@ -1,3 +1,5 @@
+import java.nio.channels.CancelledKeyException;
+
 /**
  * Examples of Primitive datatype
  *
@@ -38,6 +40,11 @@ public class DataType {
 
     Integer randomNumber; // null
 
+    //Scope of class variables
+    private static String CAR = "Toyota";
+
+    public static String FOOD = "Cake";
+
     public static void main(String[] args) {
         int k= 0;
         Integer y =null;
@@ -52,6 +59,14 @@ public class DataType {
         Float exam12_mark = 100.10f;
 
         String classname ="sda";
+
+        int a = 100;
+        int b = 0;
+
+        int c = a + b;
+
+        System.out.println(CAR);
+        System.out.println(Cake);
     }
 
 
