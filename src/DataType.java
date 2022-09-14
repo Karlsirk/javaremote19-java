@@ -44,6 +44,14 @@ public class DataType {
 
         System.out.println(k);
         System.out.println(y);
+
+        String _color = "black";
+
+        int $hexaNumber = 0x2A;
+
+        Float exam12_mark = 100.10f;
+
+        String classname ="sda";
     }
 
 
