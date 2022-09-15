@@ -41,13 +41,17 @@ public class DataType {
     Integer randomNumber; // null
 
     //Scope of class variables
-    private static String CAR = "Toyota";
+    private static final String CAR = "Toyota";
 
     public static String FOOD = "Cake";
 
     public static void main(String[] args) {
         int k= 0;
         Integer y =null;
+        System.out.println(k);
+
+        k = 10;
+        System.out.println(k);
 
         System.out.println(k);
         System.out.println(y);
