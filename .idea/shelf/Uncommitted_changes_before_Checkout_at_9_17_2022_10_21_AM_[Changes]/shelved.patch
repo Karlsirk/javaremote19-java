@@ -1,0 +1,46 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="homwork">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
+-    </list>
++    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="homework" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -182,7 +179,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1663264789903</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="homework">
++      <created>1663402417894</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1663402417894</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -201,6 +205,7 @@
+     <MESSAGE value="Helloworld" />
+     <MESSAGE value="DataType" />
+     <MESSAGE value="homwork" />
+-    <option name="LAST_COMMIT_MESSAGE" value="homwork" />
++    <MESSAGE value="homework" />
++    <option name="LAST_COMMIT_MESSAGE" value="homework" />
+   </component>
+ </project>
+\ No newline at end of file
