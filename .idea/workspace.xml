@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="DataType">
-      <change afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
+    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="homwork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operator">
+  <component name="RunManager" selected="Application.Homework">
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType" />
       <module name="java-fundamentals" />
@@ -66,6 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operator" />
       <module name="java-fundamentals" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework" />
         <item itemvalue="Application.Operator" />
         <item itemvalue="Application.DataType" />
         <item itemvalue="Application.HelloWorld" />
@@ -167,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663264210241</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="homwork">
+      <created>1663264789903</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663264789903</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +200,7 @@
     <MESSAGE value="Initiliazed new project" />
     <MESSAGE value="Helloworld" />
     <MESSAGE value="DataType" />
-    <option name="LAST_COMMIT_MESSAGE" value="DataType" />
+    <MESSAGE value="homwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="homwork" />
   </component>
 </project>

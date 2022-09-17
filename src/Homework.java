@@ -1,19 +1,38 @@
+import com.sun.net.httpserver.Authenticator;
+
+/**
+ * @author Karl Sirkas
+ *
+ */
+
 public class Homework {
     public static void main(String[] args) {
-        int i = 9;
-        int a = 10;
+        int a = 9;
+        int b = 10;
+        int c = a - b;
 
-        int result = //your expression here;
+        int d = a - b * c;
 
-        /*
-        /1
-        /2
-        /3
-        /4
-        /5
-        /6
-         */
+       int i = d * a -(a / b)  % c;
 
-        sout(result);
+       /*
+       1.(a / b)
+       2.a % c
+       d * a
+        */
+
+        int Result;
+
+       System.out.println(c);
+
+       /*
+       Result -1
+        */
+
+
+
+
+
+
     }
 }
