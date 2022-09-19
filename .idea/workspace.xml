@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="homework">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_17_2022_10_21_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_17_2022_10_21_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/first_program" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Homework">
+  <component name="RunManager" selected="Application.Statment">
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType" />
       <module name="java-fundamentals" />
@@ -79,8 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Statment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statment" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statment" />
         <item itemvalue="Application.Homework" />
         <item itemvalue="Application.Operator" />
         <item itemvalue="Application.DataType" />
@@ -188,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663403052421</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework">
+      <created>1663403791246</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663403791246</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
