@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="Homework2">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatementExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663667077010</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework2">
+      <created>1663693920634</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663693920634</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Homework2">
+      <created>1663693926547</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663693926547</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
