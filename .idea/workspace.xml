@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="Statment">
-      <change afterPath="$PROJECT_DIR$/src/Homework2.java" afterDir="false" />
+    <list default="true" id="a1ecc1d6-564a-4761-b97c-2acd69a1750b" name="Changes" comment="Homework2">
+      <change afterPath="$PROJECT_DIR$/src/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatementExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +52,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Homework2">
-    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataType" />
-      <module name="java-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework" />
+  <component name="RunManager" selected="Application.StatementExercises">
+    <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm" />
       <module name="java-fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
+    <configuration name="StatementExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatementExercises" />
       <module name="java-fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StatementExercises" />
+        <item itemvalue="Application.Algorithm" />
         <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.Try" />
         <item itemvalue="Application.Statment" />
-        <item itemvalue="Application.Homework" />
-        <item itemvalue="Application.Operator" />
-        <item itemvalue="Application.DataType" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663403791246</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Homework2">
+      <created>1663667077010</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663667077010</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +232,7 @@
     <MESSAGE value="DataType" />
     <MESSAGE value="homwork" />
     <MESSAGE value="homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework" />
+    <MESSAGE value="Homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
   </component>
 </project>
