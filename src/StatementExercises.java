@@ -15,10 +15,11 @@ public class StatementExercises {
    //Leap year
     int year = 2022;
 
-    if (year % 400 == 0|| (year % 4 == 0 && year % 100 != 0 ) ) {
+    if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0 ) ) {
         System.out.print(year + "is not a leap year");
     } else {
         System.out.print(year+ "is not a leap year");
     }
+
     }
 
