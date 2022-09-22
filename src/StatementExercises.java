@@ -54,6 +54,6 @@ public class StatementExercises {
         }
 
         //solution 2
-        //Homework3: one line solution for FIZZBUZZ
+        //Homworks.Homework3: one line solution for FIZZBUZZ
     }
 }

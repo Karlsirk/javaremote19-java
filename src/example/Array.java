@@ -1,3 +1,5 @@
+package example;
+
 /**
  * Examples of Arrays
  *
@@ -17,7 +19,7 @@ public class Array {
     System.out.println(fruits[0]);
     System.out.println(b[4]);
 
-    //System.out.println(fruits[3]); //Array index out of bound
+    //System.out.println(fruits[3]); //example.Array index out of bound
 
         System.out.println(b.length); //return the number of values in the array
 

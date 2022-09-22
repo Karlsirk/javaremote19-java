@@ -1,3 +1,5 @@
+package Homworks;
+
 import java.util.Scanner;
 
 /**
